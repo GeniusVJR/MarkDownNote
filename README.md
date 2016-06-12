@@ -17,6 +17,5 @@
 项目截图：
 
 
-![main](https://github.com/GeniusVJR/MarkDownNote/blob/master/image/main.jpg)
-![sliding](https://github.com/GeniusVJR/MarkDownNote/blob/master/image/sliding.jpg)
-![eidt](https://github.com/GeniusVJR/MarkDownNote/blob/master/image/edit.jpg)
+![main](https://github.com/GeniusVJR/MarkDownNote/blob/master/image/mengji.gif)
+
