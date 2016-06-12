@@ -14,7 +14,7 @@
 
 
 
-项目截图：
+项目基本效果：
 
 
 ![main](https://github.com/GeniusVJR/MarkDownNote/blob/master/image/mengji.gif)
